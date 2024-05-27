@@ -6,5 +6,6 @@
 
 ### Problem Statement
 
-![image](https://github.com/kanakaero/linux-proj-2024/assets/93387754/cef63e0c-f92a-4bcb-aa18-ae9665ca3f5e)
+![image](https://github.com/kanakaero/linux-proj-2024/assets/93387754/e02f6bcf-1bf5-428d-afe3-38e00c23bb5c)
+
 
