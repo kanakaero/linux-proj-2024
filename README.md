@@ -1,1 +1,10 @@
-# linux-proj-2024
+# Linux Project
+
+<p>
+  This repository contains my course project for the subject "Introduction to Linux and Shell Scripting" at the Manipal Institute of Technology, Manipal, India.
+</p>
+
+### Problem Statement
+
+![image](https://github.com/kanakaero/linux-proj-2024/assets/93387754/cef63e0c-f92a-4bcb-aa18-ae9665ca3f5e)
+
