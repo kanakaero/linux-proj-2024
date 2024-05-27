@@ -1,7 +1,7 @@
 # Linux Project
 
 <p>
-  This repository contains my course project for the subject "Introduction to Linux and Shell Scripting" at the Manipal Institute of Technology, Manipal, India.
+  This repository contains my course project for the subject "Introduction to Linux and Shell Scripting" for the academic year 2023-24 at the Manipal Institute of Technology, Manipal, India.
 </p>
 
 ### Problem Statement
